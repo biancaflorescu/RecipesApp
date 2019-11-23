@@ -1,5 +1,5 @@
-# My first project using Angular.
-I'm still working on this project.
+# Recipes App Project
+My first project using Angular that I'm still working on.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 
